@@ -1,0 +1,11 @@
+Description of dataset:
+This data set contains six columns product ID, Title, description, product type ID, Bullet points and product length. In this data set, the target variable is product length. And we have to find the length of product using the given other features.
+
+Source of data set:
+This data set I have got during the Amazon ML challenge. It was given to build a Machine learning model which predicts the product length based on given descriptions.
+
+This data set is interesting because:
+1.The three main columns of dataset title, description and bullet points look very similar to each other and the extent to which they will affect the target variable has very little difference.
+2. This data set currents around 20,00,000 rows. And we have to use it this data set to train the model. So, it becomes very challenging to train our model using our local computer.
+3. The data in it is in very complex in nature, and it becomes very difficult to understand and analyse it with normal human understanding.
+In Sort, it has all the characteristics which are good data set have. It means it contains all the cases which are programmer may feel difficult during programming or model.
